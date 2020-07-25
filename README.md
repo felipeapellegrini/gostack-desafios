@@ -7,6 +7,7 @@ Aqui você pode acompanhar toda a minha jornada no bootcamp, verificar os desafi
 * [Desafio 2](https://github.com/felipeapellegrini/conceitos-nodejs): Conceitos Node.js
 * [Desafio 5](https://github.com/felipeapellegrini/desafio05-gostack): Fundamentos Node.js
 * [Desafio 6](https://github.com/felipeapellegrini/desafio-6-goStack): Database upload
+* [Desafio 9](https://github.com/felipeapellegrini/desafio_database_relations): Database relations
 
 # React
 * [Desafio 3](https://github.com/felipeapellegrini/frontend-reactjs-gostack): Conceitos ReactJS
