@@ -12,6 +12,7 @@ Aqui você pode acompanhar toda a minha jornada no bootcamp, verificar os desafi
 # React
 * [Desafio 3](https://github.com/felipeapellegrini/frontend-reactjs-gostack): Conceitos ReactJS
 * [Desafio 7](https://github.com/felipeapellegrini/desafio-7-gostack): Fundamentos ReactJS
+* [Desafio 10](https://github.com/felipeapellegrini/desafio-10-GoRestaurant): CRUD - GoRestaurant
 
 # React Native
 * [Desafio 4](https://github.com/felipeapellegrini/mobile-reactnative-f01): Conceitos React Native
